@@ -57,13 +57,6 @@ Digital-Calculator/
 
 ---
 
-## 📸 Screenshot
-
-![Uploading Digital Calculator.png…]()
-
-
----
-
 ## 🧑‍💻 Author
 
 **Vasanthan**
