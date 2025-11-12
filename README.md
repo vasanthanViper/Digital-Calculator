@@ -1,7 +1,3 @@
-Here’s a **professional and client-attractive GitHub README** for your **Digital Calculator** project — clear, well-formatted, and keyword-rich to make your repository stand out:
-
----
-
 # 🧮 Digital Calculator
 
 A **simple yet powerful web-based digital calculator** built using **HTML, CSS, and JavaScript**. This project provides an interactive and responsive calculator interface capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -63,6 +59,7 @@ Digital-Calculator/
 
 ## 📸 Screenshot
 
+![Uploading Digital Calculator.png…]()
 
 
 ---
