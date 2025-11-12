@@ -16,9 +16,8 @@ A **simple yet powerful web-based digital calculator** built using **HTML, CSS, 
 
 ## 🖥️ Demo
 
-👉 **Live Demo:** *(Add your deployed link here, e.g. GitHub Pages link)*
-Example:
-`https://vasanthan.github.io/digital-calculator/`
+👉 **Live Demo:** 
+`https://vasanthanviper.github.io/Digital-Calculator/`
 
 ---
 
